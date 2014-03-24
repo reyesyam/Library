@@ -1,0 +1,10 @@
+body{
+	background-color: #EEE;
+	color: #000;
+	padding: 10px;
+}
+
+h1{
+	color: red;
+	text-decoration: blink;
+}
