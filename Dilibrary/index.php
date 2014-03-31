@@ -7,7 +7,8 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Mi libreria</title>
+        <link rel="stylesheet" type="text/css" href="style.css" >
     </head>
     <body>
         <div id="wrapper">
@@ -18,7 +19,7 @@ and open the template in the editor.
                 <ul>
                     <li><a href="#">Inicio</a></li>
                     <li><a href="#">Libros</a></li>
-                    <li><a href="#">Panel</a></li>
+                    <li><a href="#">Panel Admin</a></li>
                     <li><a href="#">Foro</a></li>
                 </ul>
             </nav>

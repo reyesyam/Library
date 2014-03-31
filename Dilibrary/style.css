@@ -11,3 +11,17 @@ body{
     background-color: #333;
     color: #fff;
 }
+
+#wrapper{
+    width: 75%;
+    margin: 0px auto;
+}
+
+header{
+    background-color: 111;
+    color: #ffd900;
+}
+
+header h1{
+    margin: 0px;
+}
